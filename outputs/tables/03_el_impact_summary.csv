@@ -1,0 +1,2 @@
+EL_old,EL_new,delta_EL,EL_change_pct,exposure_funded,EL_old_pct_exposure,EL_new_pct_exposure,PD_change_simple_mean,boot_low,boot_high,boot_share_above_10pct,paired_low,paired_high,paired_share_above_10pct,paired_share_nonpositive
+19813798.47173572,20733968.40159079,920169.929855071,0.04644086448984974,430631112.63,0.046011070474510314,0.04814786436344998,0.07229177134384239,-0.08157620669812038,0.1862754367478271,0.18,0.017441351497329238,0.08940640760743954,0.01,0.015

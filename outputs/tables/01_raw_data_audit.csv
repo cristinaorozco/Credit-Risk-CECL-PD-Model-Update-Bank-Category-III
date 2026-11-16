@@ -1,0 +1,9 @@
+issue,development,monitoring,treatment
+FICO at origination outside 300-850 (999),20,10,"set to missing, flagged, imputed (flag columns kept)"
+Negative DTI,20,10,"set to missing, flagged, imputed"
+Missing annual income,800,400,"imputed, `annual_income_imputed_flag`=1"
+Missing DTI,399,200,"imputed, `dti_ratio_imputed_flag`=1"
+Missing refreshed FICO,600,300,"fallback to origination FICO, `fico_current_source`"
+Employment length missing/free text,600,300,parsed to years; unknown flagged
+"Utilization empty (term loans, not applicable)",11014,5605,kept empty; `utilization_applicable_flag`=0 (NOT zero)
+Duplicate loan_id,0,0,none found

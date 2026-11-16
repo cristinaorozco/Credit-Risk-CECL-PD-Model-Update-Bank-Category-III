@@ -1,0 +1,17 @@
+pool_id,development,monitoring
+auto_loan | near-prime(640-679),1298,693
+auto_loan | prime(680-719),1713,871
+auto_loan | subprime(<640),780,421
+auto_loan | super-prime(720+),2178,1085
+credit_card | near-prime(640-679),1337,652
+credit_card | prime(680-719),1688,810
+credit_card | subprime(<640),816,403
+credit_card | super-prime(720+),2144,1041
+heloc | near-prime(640-679),649,302
+heloc | prime(680-719),835,436
+heloc | subprime(<640),422,201
+heloc | super-prime(720+),1095,550
+personal_loan | near-prime(640-679),1139,536
+personal_loan | prime(680-719),1422,726
+personal_loan | subprime(<640),675,338
+personal_loan | super-prime(720+),1809,935

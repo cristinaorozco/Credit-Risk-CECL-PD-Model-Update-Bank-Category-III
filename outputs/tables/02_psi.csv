@@ -1,0 +1,8 @@
+metric,object,value,status
+PSI pool_id (score),portfolio,0.0014569110380765144,GREEN
+PSI fico_band,auto_loan,0.0010241625528134525,GREEN
+PSI fico_band,personal_loan,0.001302852789017435,GREEN
+PSI fico_band,credit_card,8.291218010875741e-05,GREEN
+PSI fico_band,heloc,0.0018915145456449485,GREEN
+PSI unemployment_rate_regional,macro input,3.3726582913716596,RED
+PSI hpi_change_regional_pct,macro input,1.2807650655689597,RED

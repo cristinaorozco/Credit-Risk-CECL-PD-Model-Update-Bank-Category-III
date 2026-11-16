@@ -1,0 +1,17 @@
+pool_id,segment,PD_lifetime_CECL_v2
+auto_loan | subprime(<640),auto_loan,0.31960831798604805
+auto_loan | near-prime(640-679),auto_loan,0.21945284326431702
+auto_loan | prime(680-719),auto_loan,0.07709763511963164
+auto_loan | super-prime(720+),auto_loan,0.054291119515705644
+credit_card | subprime(<640),credit_card,0.31371309641288325
+credit_card | near-prime(640-679),credit_card,0.13725566815062484
+credit_card | prime(680-719),credit_card,0.0825376113854216
+credit_card | super-prime(720+),credit_card,0.04261466018735638
+heloc | subprime(<640),heloc,0.5849155325711273
+heloc | near-prime(640-679),heloc,0.28534537192021214
+heloc | prime(680-719),heloc,0.07751018845307571
+heloc | super-prime(720+),heloc,0.07751018845307571
+personal_loan | subprime(<640),personal_loan,0.2588190363443178
+personal_loan | near-prime(640-679),personal_loan,0.11744679487959142
+personal_loan | prime(680-719),personal_loan,0.06590450775823198
+personal_loan | super-prime(720+),personal_loan,0.03869912203909909

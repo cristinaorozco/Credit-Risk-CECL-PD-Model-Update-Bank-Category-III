@@ -1,0 +1,10 @@
+alternative,EL_change_pct,above_10pct_threshold
+"Chosen: pooled dev+monitoring, tail 300, monotone",0.04644086448984974,False
+Tail credible exposure = 150,0.0035287746611611936,False
+Tail credible exposure = 600,0.039643679957501954,False
+No monotonicity constraint,0.0453104275133791,False
+"Monitoring period only (29 months, 10,000 loans)",0.4735720611305456,True
+"Development only (re-estimated, sanity check)",4.440892098500626e-16,False
+Scalar: every PD x 1.251 (monitoring regime persists in full),0.25120998991547516,True
+"Scalar: every PD x 1.55 (horizon-matched A/E, regime persists)",0.5456730396610852,True
+Pool-specific scalar: PD x pool A/E (overfits noise),0.20071539971523267,True

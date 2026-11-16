@@ -1,0 +1,17 @@
+pool_id,segment,EAD_pct_of_committed
+auto_loan | near-prime(640-679),auto_loan,0.8014608693167411
+auto_loan | prime(680-719),auto_loan,0.8014608693167411
+auto_loan | subprime(<640),auto_loan,0.8014608693167411
+auto_loan | super-prime(720+),auto_loan,0.8014608693167411
+credit_card | super-prime(720+),credit_card,0.6527438917825148
+credit_card | prime(680-719),credit_card,0.7150321559590338
+credit_card | near-prime(640-679),credit_card,0.7700133235178337
+credit_card | subprime(<640),credit_card,0.8271884891531811
+heloc | super-prime(720+),heloc,0.6117404837459426
+heloc | prime(680-719),heloc,0.7050260865208341
+heloc | near-prime(640-679),heloc,0.7814748357124417
+heloc | subprime(<640),heloc,0.8597977392054224
+personal_loan | near-prime(640-679),personal_loan,0.6695163453964612
+personal_loan | prime(680-719),personal_loan,0.6695163453964612
+personal_loan | subprime(<640),personal_loan,0.6695163453964612
+personal_loan | super-prime(720+),personal_loan,0.6695163453964612

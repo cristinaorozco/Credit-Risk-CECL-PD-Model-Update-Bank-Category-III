@@ -1,0 +1,6 @@
+scenario,EL,change_vs_production,above_10pct_threshold
+PD recalibration only (the Model Update scope),20733968.401590783,0.0464408644898493,False
+"HELOC LGD only, pooled evidence",20353257.673907932,0.027226440348717018,False
+"PD recalibration + HELOC LGD, pooled evidence",21274239.24301364,0.07370826817287113,False
+"HELOC LGD only, monitoring regime persists",21310108.667541854,0.07551859366797409,False
+"PD recalibration + HELOC LGD, monitoring regime persists",22232529.85955199,0.1220730790850919,True

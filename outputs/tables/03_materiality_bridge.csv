@@ -1,0 +1,5 @@
+step,value
+Preliminary signal: simple mean of pool A/E minus 1 (raw rates),0.25120998991547516
+"Recalibrated PD change, simple mean across pools",0.07229177134384239
+"Recalibrated change in Expected Loss (PD x LGD x EAD, LGD/EAD unchanged)",0.04644086448984974
+Internal materiality threshold [JUDGMENT],0.1
